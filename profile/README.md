@@ -25,7 +25,7 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 
 | Package | Description |
 |---------|-------------|
-| *(coming soon)* | |
+| [CartesianGrids.jl](https://github.com/ADELIE-org/CartesianGrids.jl) | Cartesian grid generation and management in arbitrary dimensions |
 
 ---
 
