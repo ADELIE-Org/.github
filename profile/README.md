@@ -26,6 +26,7 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 | Package | Description |
 |---------|-------------|
 | [CartesianGrids.jl](https://github.com/ADELIE-org/CartesianGrids.jl) | Cartesian grid generation and management in arbitrary dimensions |
+| [Vofinit.jl](https://github.com/ADELIE-org/Vofinit.jl) | VOF initialisation — exact volume fractions from an implicit interface |
 
 ---
 
