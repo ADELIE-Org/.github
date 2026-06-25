@@ -33,6 +33,12 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 | [FrontIntrinsicOps.jl](https://github.com/ADELIE-org/FrontIntrinsicOps.jl) | Intrinsic differential operators on fronts and interfaces |
 | [FrontCartesianGeometry.jl](https://github.com/ADELIE-org/FrontCartesianGeometry.jl) | Cartesian front-tracking geometry primitives |
 
+## External packages
+
+| Package | Description |
+|---------|-------------|
+| [ImplicitIntegration.jl](https://github.com/ELallinec/ImplicitIntegration.jl) | Numerical integration over implicitly-defined domains and surfaces |
+
 ---
 
 *ADELIE is named after the Adélie penguin — an animal that lives at the sharpest interface on Earth.*
