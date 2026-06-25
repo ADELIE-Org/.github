@@ -27,8 +27,11 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 |---------|-------------|
 | [CartesianGrids.jl](https://github.com/ADELIE-org/CartesianGrids.jl) | Cartesian grid generation and management in arbitrary dimensions |
 | [Vofinit.jl](https://github.com/ADELIE-org/Vofinit.jl) | VOF initialisation — exact volume fractions from an implicit interface |
+| [VofiJul.jl](https://github.com/ADELIE-org/VofiJul.jl) | Pure-Julia VOFI — volume fractions, moments, and adjoints in 1–4D |
 | [VOFTools.jl](https://github.com/ADELIE-org/VOFTools.jl) | Geometrical VOF tools — polygon/polyhedron truncation and PLIC reconstruction |
 | [isoap.jl](https://github.com/ADELIE-org/isoap.jl) | Isosurface extraction on arbitrary polyhedra and grids |
+| [FrontIntrinsicOps.jl](https://github.com/ADELIE-org/FrontIntrinsicOps.jl) | Intrinsic differential operators on fronts and interfaces |
+| [FrontCartesianGeometry.jl](https://github.com/ADELIE-org/FrontCartesianGeometry.jl) | Cartesian front-tracking geometry primitives |
 
 ---
 
