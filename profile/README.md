@@ -26,6 +26,7 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 | Package | Description |
 |---------|-------------|
 | [CartesianGrids.jl](https://github.com/ADELIE-org/CartesianGrids.jl) | Cartesian grid generation and management in arbitrary dimensions |
+| [CartesianGeometry.jl](https://github.com/ADELIE-org/CartesianGeometry.jl) | Cut-cell moment router — volume fractions, apertures, and staggered moments on Cartesian grids |
 | [Vofinit.jl](https://github.com/ADELIE-org/Vofinit.jl) | VOF initialisation — exact volume fractions from an implicit interface |
 | [VofiJul.jl](https://github.com/ADELIE-org/VofiJul.jl) | Pure-Julia VOFI — volume fractions, moments, and adjoints in 1–4D |
 | [VOFTools.jl](https://github.com/ADELIE-org/VOFTools.jl) | Geometrical VOF tools — polygon/polyhedron truncation and PLIC reconstruction |
