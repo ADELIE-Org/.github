@@ -33,6 +33,7 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 | [isoap.jl](https://github.com/ADELIE-org/isoap.jl) | Isosurface extraction on arbitrary polyhedra and grids |
 | [FrontIntrinsicOps.jl](https://github.com/ADELIE-org/FrontIntrinsicOps.jl) | Intrinsic differential operators on fronts and interfaces |
 | [FrontCartesianGeometry.jl](https://github.com/ADELIE-org/FrontCartesianGeometry.jl) | Cartesian front-tracking geometry primitives |
+| [FrontSpaceTimeDEC.jl](https://github.com/ADELIE-org/FrontSpaceTimeDEC.jl) | Space-time DEC for moving fronts — worldsheet slabs, Hodge operators, and moving-surface PDE assembly |
 
 ## External packages
 
