@@ -1,6 +1,6 @@
 # ADELIE
 
-**Adaptive Discretization Ecosystem for Liquid–Interface Evolution**
+**Advanced Discretization Ecosystem for Liquid–Interface Evolution**
 
 A collection of open-source packages for the numerical simulation of multiphase flows, phase change, and moving interfaces.
 
@@ -10,7 +10,7 @@ A collection of open-source packages for the numerical simulation of multiphase 
 
 ADELIE packages share a common design philosophy: modular, composable numerical methods that adapt to the geometry and physics of liquid–interface problems.
 
-- **Adaptive methods** — structured mesh refinement, adaptive numerical methods.
+- **Advanced methods** — Two-fluid fully coupled solvers, space-time discretizations, and adjoint-based optimization.
 - **Discretization** — finite volume, cut-cell, and embedded-boundary schemes with well-defined interfaces between components
 - **Multiphase flow** — incompressible two-phase flows with surface tension, phase change, and topology changes
 - **Moving interfaces** — level-set, VOF, and hybrid interface-tracking methods
