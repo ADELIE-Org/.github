@@ -39,7 +39,7 @@ ADELIE packages share a common design philosophy: modular, composable numerical 
 
 | Package | Description |
 |---------|-------------|
-| [ImplicitIntegration.jl](https://github.com/ELallinec/ImplicitIntegration.jl) | Numerical integration over implicitly-defined domains and surfaces |
+| [ImplicitIntegration.jl](https://github.com/maltezfaria/ImplicitIntegration.jl) | Numerical integration over implicitly-defined domains and surfaces |
 
 ---
 
